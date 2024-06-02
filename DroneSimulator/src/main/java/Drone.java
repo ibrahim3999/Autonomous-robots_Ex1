@@ -90,6 +90,11 @@ public class Drone {
 	public Point getOpticalSensorLocation() {
 		return new Point(sensorOpticalFlow);
 	}
+	public void adjustPosition(double deltaX, double deltaY) {
+		// Adjust the drone's position by deltaX and deltaY
+		this.startPoint.x += deltaX;
+		this.startPoint.y += deltaY;
+	}
 
 
 	public void rotateLeft(int deltaTime) {
