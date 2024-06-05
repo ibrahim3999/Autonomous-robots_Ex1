@@ -209,7 +209,7 @@ public class SimulationWindow {
 				new Point(92, 100)
 		};
 
-		String imagePath = "C:\\projects\\Atumic Robots\\DroneSimulator\\DroneSimulator\\Maps\\p1" + map_num + ".png";
+		String imagePath = "Maps\\p1" + map_num + ".png";
 		Map map = new Map(imagePath, startPoints[map_num - 1]);
 
 		if (map == null) {
