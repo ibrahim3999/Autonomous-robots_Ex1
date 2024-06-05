@@ -18,12 +18,12 @@ public class Battery {
 
     public void update(int deltaTime, boolean isCharging) {
         if (isCharging) {
-            batteryLevel += chargeRate * (deltaTime / 10000.0);
+            batteryLevel += chargeRate * (deltaTime / 1000.0);
             if (batteryLevel > maxBatteryLevel) {
                 batteryLevel = maxBatteryLevel;
             }
         } else {
-            batteryLevel -= dischargeRate * (deltaTime / 10000.0);
+            batteryLevel -= dischargeRate * (deltaTime / 1000.0);
             if (batteryLevel < 0) {
                 batteryLevel = 0;
             }
