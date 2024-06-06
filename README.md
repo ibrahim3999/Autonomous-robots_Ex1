@@ -45,11 +45,18 @@ If you wish to add custom map it has to be black/white pixels- black is wall/obs
 - Sometimes may be indifferent parameters which causing some pixels override - solution is to re-run project.
 
 ## Images
-![](https://i.imgur.com/lweL2Fp.png)
-![](https://i.imgur.com/unUpwsL.png)
-![](https://i.imgur.com/Ptnut2b.png)
-![](https://i.imgur.com/Do0Z3gP.png)
-![](https://i.imgur.com/Y73PO2C.png)
+
+
+![WhatsApp Image 2024-06-06 at 22 36 03 (1)](https://github.com/ibrahim3999/Autonomous-robots_Ex1/assets/57791415/b927cc6f-c19d-43b9-b41e-910594049d7d)
+
+![WhatsApp Image 2024-06-06 at 22 36 03](https://github.com/ibrahim3999/Autonomous-robots_Ex1/assets/57791415/594accba-9430-4fa4-9df3-d096aac617e3)
+
+![WhatsApp Image 2024-06-06 at 22 36 04 (1)](https://github.com/ibrahim3999/Autonomous-robots_Ex1/assets/57791415/1f1ad052-8b8b-4e05-a4ce-f111c43c8500)
+
+![WhatsApp Image 2024-06-06 at 22 36 04](https://github.com/ibrahim3999/Autonomous-robots_Ex1/assets/57791415/53e126c2-0c52-45f1-91de-e9c1c6dece0b)
+
+
+
 ![graphexample](https://user-images.githubusercontent.com/28596354/60256218-cc095680-98d9-11e9-8ab4-70c00e863df8.png)
 
 ## How to Run the Simulator
