@@ -58,3 +58,10 @@ If you wish to add custom map it has to be black/white pixels- black is wall/obs
     - In the "SimulatorWindow" file at "imagePath" change the current path to the map you want.
     - Run the "SimulationWindow" file to start the simulation.
 
+
+## Submited by </br>
+
+* Ibrahim
+* Niv Ginger Motilsky
+* Liron Cohen
+
